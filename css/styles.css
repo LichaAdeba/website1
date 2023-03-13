@@ -1,5 +1,6 @@
 h1 {
-    font: 1000000000px
+    font-size: 100px;
+    margin:25px, 75px, 50px, 40px;
 }
 
 
@@ -7,6 +8,10 @@ h1 {
 
 font-family:papyrus;
 background-color: beige;
+
+}
+h2 { 
+    font-size:50px;
 
 }
 
