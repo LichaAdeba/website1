@@ -23,6 +23,7 @@ a{
 }
 li { 
     display: inline;
+    float: right;
 
 }
 ul {
