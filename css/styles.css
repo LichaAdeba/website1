@@ -22,7 +22,7 @@ a{
     text-align: right ;
 }
 li { 
-    display: inline;
+    display: block;
     float: right;
 
 }
