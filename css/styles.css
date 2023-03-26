@@ -17,20 +17,4 @@ h2 {
 
 }
 
-a{
-    text-decoration: None;
-    font-family:papyrus;
-}
-li { 
-    float: left;
-
-}
-ul {
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
-    overflow: hidden;
-    background-color: bisque;
-
-}
 
