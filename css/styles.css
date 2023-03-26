@@ -22,22 +22,6 @@ a{
     font-family:papyrus;
 }
 li { 
-    float: right;
-
-}
-ul {
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
-    overflow: hidden;
-    background-color: bisque;
-
-}
-li a{
-    display: block;
-    padding:8px;
-    background-color: bisque;
-
-
+    float: left;
 
 }
