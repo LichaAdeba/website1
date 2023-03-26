@@ -16,21 +16,10 @@ h2 {
     font-size:50px;
 
 }
-
-a{
-    text-decoration: None;
-    font-family:papyrus;
-    text-overflow: scroll;
-
-}
-li { 
-    float: left ;
-
-}
-ul {
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
-    overflow: hidden;
-}
-
+--#{$prefix}nav-tabs-border-width: #{$nav-tabs-border-width};
+--#{$prefix}nav-tabs-border-color: #{$nav-tabs-border-color};
+--#{$prefix}nav-tabs-border-radius: #{$nav-tabs-border-radius};
+--#{$prefix}nav-tabs-link-hover-border-color: #{$nav-tabs-link-hover-border-color};
+--#{$prefix}nav-tabs-link-active-color: #{$nav-tabs-link-active-color};
+--#{$prefix}nav-tabs-link-active-bg: #{$nav-tabs-link-active-bg};
+--#{$prefix}nav-tabs-link-active-border-color: #{$nav-tabs-link-active-border-color};
