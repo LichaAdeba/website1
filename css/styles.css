@@ -1,10 +1,10 @@
 h1 {
-    font-size: 500px;
+    font-size: 100px;
     margin:25px, 75px, 50px, 40px;
 }
 
 
-body {
+* {
 
 font-family:papyrus;
 background-color: beige;
@@ -15,8 +15,5 @@ background-color: beige;
 h2 { 
     font-size:50px;
 
-}
-h1{
-    font-size:200px;
 }
 
