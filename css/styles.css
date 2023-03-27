@@ -1,5 +1,5 @@
 h1 {
-    font-size: 100px;
+    font-size: 500px;
     margin:25px, 75px, 50px, 40px;
 }
 
@@ -16,10 +16,4 @@ h2 {
     font-size:50px;
 
 }
---#{$prefix}nav-tabs-border-width: #{$nav-tabs-border-width};
---#{$prefix}nav-tabs-border-color: #{$nav-tabs-border-color};
---#{$prefix}nav-tabs-border-radius: #{$nav-tabs-border-radius};
---#{$prefix}nav-tabs-link-hover-border-color: #{$nav-tabs-link-hover-border-color};
---#{$prefix}nav-tabs-link-active-color: #{$nav-tabs-link-active-color};
---#{$prefix}nav-tabs-link-active-bg: #{$nav-tabs-link-active-bg};
---#{$prefix}nav-tabs-link-active-border-color: #{$nav-tabs-link-active-border-color};
+
